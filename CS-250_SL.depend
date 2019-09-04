@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1555286863 source:z:\ta-cs250\lab-presentations\lab\cs-250_sl\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+	"board.h"
+	"Game.h"
+
+1553023355 source:z:\ta-cs250\lab-presentations\lab\cs-250_sl\src\dice.cpp
+	"dice.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1551236855 z:\ta-cs250\lab-presentations\lab\cs-250_sl\include\dice.h
+	<iostream>
+
+1555287819 source:z:\ta-cs250\lab-presentations\lab\cs-250_sl\src\game.cpp
+	"Game.h"
+	<iomanip>
+
+1555287835 z:\ta-cs250\lab-presentations\lab\cs-250_sl\include\game.h
+	"player.h"
+	"board.h"
+	<iostream>
+
+1555285889 z:\ta-cs250\lab-presentations\lab\cs-250_sl\include\player.h
+	<iostream>
+
+1555285467 source:z:\ta-cs250\lab-presentations\lab\cs-250_sl\src\ladder.cpp
+	"ladder.h"
+	<iostream>
+
+1555284411 z:\ta-cs250\lab-presentations\lab\cs-250_sl\include\ladder.h
+	<iostream>
+
+1555287158 source:z:\ta-cs250\lab-presentations\lab\cs-250_sl\src\player.cpp
+	"player.h"
+	<iostream>
+
+1555285467 source:z:\ta-cs250\lab-presentations\lab\cs-250_sl\src\snake.cpp
+	"snake.h"
+	<iostream>
+
+1555284555 z:\ta-cs250\lab-presentations\lab\cs-250_sl\include\snake.h
+	<iostream>
+
+1555286987 z:\ta-cs250\lab-presentations\lab\cs-250_sl\include\board.h
+	"snake.h"
+	"ladder.h"
+	<iostream>
+
+1555287001 source:z:\ta-cs250\lab-presentations\lab\cs-250_sl\src\board.cpp
+	"board.h"
+	<iostream>
+	<conio.h>
+
+1555288757 source:z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+	"Game.h"
+
+1555287835 z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\include\game.h
+	"player.h"
+	"board.h"
+	<iostream>
+
+1555285889 z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\include\player.h
+	<iostream>
+
+1555286987 z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\include\board.h
+	"snake.h"
+	"ladder.h"
+	<iostream>
+
+1555284555 z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\include\snake.h
+	<iostream>
+
+1555284411 z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\include\ladder.h
+	<iostream>
+
+1555287001 source:z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\src\board.cpp
+	"board.h"
+	<iostream>
+	<conio.h>
+
+1555287819 source:z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\src\game.cpp
+	"Game.h"
+	<iomanip>
+
+1555285467 source:z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\src\ladder.cpp
+	"ladder.h"
+	<iostream>
+
+1555287158 source:z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\src\player.cpp
+	"player.h"
+	<iostream>
+
+1555285467 source:z:\ta-cs250\lab-presentations\lab\s19-cs250-project\private\cs-250_sl\src\snake.cpp
+	"snake.h"
+	<iostream>
+
